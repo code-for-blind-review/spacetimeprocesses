@@ -20,7 +20,7 @@
 
 ---
 
-This is a fork and extension of the [fBPMN](https://github.com/pascalpoizat/fbpmn) to study the integration of combined space & time information in BPMN models and verify these models.
+This is a fork and extension of the [fBPMN](https://github.com/pascalpoizat/fbpmn) tool to study the integration of combined space & time information in BPMN models and verify these models.
 
 We are grateful to the authors of fBPMN for their help in the set up of this project.
 
