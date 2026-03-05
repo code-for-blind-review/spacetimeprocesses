@@ -78,7 +78,7 @@ ENV JAVA_HOME=/opt/java
 ENV PATH="${JAVA_HOME}/bin:$PATH"
 
 WORKDIR /opt/fbpmn
-RUN git clone --branch master https://github.com/pascalpoizat/fbpmn.git .
+RUN git clone --branch master https://github.com/code-for-blind-review/spacetimeprocesses.git .
 
 ENV FBPMN_HOME=/opt/fbpmn
 
